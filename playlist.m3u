@@ -1,0 +1,356 @@
+#EXTM3U x-tvg-url="http://epg.astro.com.my/epg.xml"
+
+# =========================================================
+# MALAY & LOCAL ENTERTAINMENT
+# =========================================================
+#EXTINF:-1 tvg-id="101" tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/RTM_TV1_logo_2021.png" group-title="Malay",TV1 HD
+http://placeholder.invalid/astro/ch101.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-chno="102" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/RTM_TV2_logo_2021.png" group-title="Malay",TV2 HD
+http://placeholder.invalid/astro/ch102.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-chno="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV3_Logo.svg" group-title="Malay",TV3 HD
+http://placeholder.invalid/astro/ch103.m3u8
+
+#EXTINF:-1 tvg-id="104" tvg-chno="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Astro_Ria_2020.png/220px-Astro_Ria_2020.png" group-title="Malay",Astro Ria HD
+http://placeholder.invalid/astro/ch104.m3u8
+
+#EXTINF:-1 tvg-id="105" tvg-chno="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Astro_Prima_2020.png/220px-Astro_Prima_2020.png" group-title="Malay",Astro Prima HD
+http://placeholder.invalid/astro/ch105.m3u8
+
+#EXTINF:-1 tvg-id="106" tvg-chno="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Astro_Oasis_2020.png/220px-Astro_Oasis_2020.png" group-title="Malay",Astro Oasis HD
+http://placeholder.invalid/astro/ch106.m3u8
+
+#EXTINF:-1 tvg-id="107" tvg-chno="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/NTV7_Logo.svg/220px-NTV7_Logo.svg.png" group-title="Malay",DidikTV KPM
+http://placeholder.invalid/astro/ch107.m3u8
+
+#EXTINF:-1 tvg-id="108" tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/8TV_2021.svg/220px-8TV_2021.svg.png" group-title="Malay",8TV HD
+http://placeholder.invalid/astro/ch108.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-chno="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV9_Malaysia_logo_2021.svg/220px-TV9_Malaysia_logo_2021.svg.png" group-title="Malay",TV9 HD
+http://placeholder.invalid/astro/ch109.m3u8
+
+#EXTINF:-1 tvg-id="112" tvg-chno="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Astro_Rania_2020.png/220px-Astro_Rania_2020.png" group-title="Malay",Astro Rania HD
+http://placeholder.invalid/astro/ch112.m3u8
+
+#EXTINF:-1 tvg-id="113" tvg-chno="113" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Astro_Aura_2020.png/220px-Astro_Aura_2020.png" group-title="Malay",Astro Aura HD
+http://placeholder.invalid/astro/ch113.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-chno="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/TV_AlHijrah_2020.png/220px-TV_AlHijrah_2020.png" group-title="Malay",TV AlHijrah HD
+http://placeholder.invalid/astro/ch114.m3u8
+
+#EXTINF:-1 tvg-id="122" tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TVS_Logo_2020.png/220px-TVS_Logo_2020.png" group-title="Malay",TVS (TV Sarawak) HD
+http://placeholder.invalid/astro/ch122.m3u8
+
+#EXTINF:-1 tvg-id="123" tvg-chno="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Awesome_TV_logo.png/220px-Awesome_TV_logo.png" group-title="Malay",Awesome TV HD
+http://placeholder.invalid/astro/ch123.m3u8
+
+#EXTINF:-1 tvg-id="146" tvg-chno="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/OKEY_RTM.png/220px-OKEY_RTM.png" group-title="Malay",TV Okey HD
+http://placeholder.invalid/astro/ch146.m3u8
+
+
+# =========================================================
+# CHINESE ENTERTAINMENT
+# =========================================================
+#EXTINF:-1 tvg-id="300" tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/iQIYI_logo.svg/220px-iQIYI_logo.svg.png" group-title="Chinese",iQIYI HD
+http://placeholder.invalid/astro/ch300.m3u8
+
+#EXTINF:-1 tvg-id="306" tvg-chno="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Astro_AEC_2020.png/220px-Astro_AEC_2020.png" group-title="Chinese",Astro AEC HD
+http://placeholder.invalid/astro/ch306.m3u8
+
+#EXTINF:-1 tvg-id="308" tvg-chno="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Astro_QJ_2020.png/220px-Astro_QJ_2020.png" group-title="Chinese",Astro QJ HD
+http://placeholder.invalid/astro/ch308.m3u8
+
+#EXTINF:-1 tvg-id="309" tvg-chno="309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Hua_Hee_Dai_2020.png/220px-Astro_Hua_Hee_Dai_2020.png" group-title="Chinese",Astro Hua Hee Dai HD
+http://placeholder.invalid/astro/ch309.m3u8
+
+#EXTINF:-1 tvg-id="310" tvg-chno="310" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TVB_Jade_logo.svg/220px-TVB_Jade_logo.svg.png" group-title="Chinese",TVB Jade HD
+http://placeholder.invalid/astro/ch310.m3u8
+
+#EXTINF:-1 tvg-id="316" tvg-chno="316" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CTi_Asia.png/220px-CTi_Asia.png" group-title="Chinese",CTi Asia HD
+http://placeholder.invalid/astro/ch316.m3u8
+
+#EXTINF:-1 tvg-id="317" tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TVBS-Asia_Logo.svg/220px-TVBS-Asia_Logo.svg.png" group-title="Chinese",TVBS-Asia HD
+http://placeholder.invalid/astro/ch317.m3u8
+
+#EXTINF:-1 tvg-id="319" tvg-chno="319" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TVB_Xing_Kong.png/220px-TVB_Xing_Kong.png" group-title="Chinese",TVB Xing He HD
+http://placeholder.invalid/astro/ch319.m3u8
+
+#EXTINF:-1 tvg-id="320" tvg-chno="320" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/TVBS_News_Logo.svg/220px-TVBS_News_Logo.svg.png" group-title="Chinese",TVBS News HD
+http://placeholder.invalid/astro/ch320.m3u8
+
+#EXTINF:-1 tvg-id="325" tvg-chno="325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Phoenix_Chinese_Channel.svg/220px-Phoenix_Chinese_Channel.svg.png" group-title="Chinese",Phoenix Chinese HD
+http://placeholder.invalid/astro/ch325.m3u8
+
+#EXTINF:-1 tvg-id="326" tvg-chno="326" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Phoenix_InfoNews_Channel.svg/220px-Phoenix_InfoNews_Channel.svg.png" group-title="Chinese",Phoenix InfoNews HD
+http://placeholder.invalid/astro/ch326.m3u8
+
+
+# =========================================================
+# KOREAN & ASIAN ENTERTAINMENT
+# =========================================================
+#EXTINF:-1 tvg-id="392" tvg-chno="392" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/KBS_World.svg/220px-KBS_World.svg.png" group-title="Korean",KBS World HD
+http://placeholder.invalid/astro/ch392.m3u8
+
+#EXTINF:-1 tvg-id="393" tvg-chno="393" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Astro_Logo.svg/220px-Astro_Logo.svg.png" group-title="Korean",Astro Daebak HD
+http://placeholder.invalid/astro/ch393.m3u8
+
+#EXTINF:-1 tvg-id="395" tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TvN_logo.svg/220px-TvN_logo.svg.png" group-title="Korean",tvN Asia HD
+http://placeholder.invalid/astro/ch395.m3u8
+
+#EXTINF:-1 tvg-id="396" tvg-chno="396" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/KPLUS_logo.png/220px-KPLUS_logo.png" group-title="Korean",K-PLUS HD
+http://placeholder.invalid/astro/ch396.m3u8
+
+
+# =========================================================
+# MOVIES & GENERAL DRAMA
+# =========================================================
+#EXTINF:-1 tvg-id="401" tvg-chno="401" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HITS_Movies_Logo.png/220px-HITS_Movies_Logo.png" group-title="Movies",HITS Movies HD
+http://placeholder.invalid/astro/ch401.m3u8
+
+#EXTINF:-1 tvg-id="413" tvg-chno="413" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Astro_Showcase_2020.png/220px-Astro_Showcase_2020.png" group-title="Movies",Astro Showcase HD
+http://placeholder.invalid/astro/ch413.m3u8
+
+#EXTINF:-1 tvg-id="414" tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Rock_Action_Logo.png/220px-Rock_Action_Logo.png" group-title="Movies",Rock Action HD
+http://placeholder.invalid/astro/ch414.m3u8
+
+#EXTINF:-1 tvg-id="415" tvg-chno="415" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Rock_X_Stream_Logo.png/220px-Rock_X_Stream_Logo.png" group-title="Movies",Rock Entertainment HD
+http://placeholder.invalid/astro/ch415.m3u8
+
+#EXTINF:-1 tvg-id="416" tvg-chno="416" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TvN_logo.svg/220px-TvN_logo.svg.png" group-title="Movies",tvN Movies HD
+http://placeholder.invalid/astro/ch416.m3u8
+
+
+# =========================================================
+# NEWS & CURRENT AFFAIRS
+# =========================================================
+#EXTINF:-1 tvg-id="501" tvg-chno="501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Astro_Awani_2020.png/220px-Astro_Awani_2020.png" group-title="News",Astro Awani HD
+http://placeholder.invalid/astro/ch501.m3u8
+
+#EXTINF:-1 tvg-id="502" tvg-chno="502" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bernama_TV_Logo.svg/220px-Bernama_TV_Logo.svg.png" group-title="News",Bernama TV HD
+http://placeholder.invalid/astro/ch502.m3u8
+
+#EXTINF:-1 tvg-id="503" tvg-chno="503" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/CGTN_Logo.svg/220px-CGTN_Logo.svg.png" group-title="News",CGTN HD
+http://placeholder.invalid/astro/ch503.m3u8
+
+#EXTINF:-1 tvg-id="511" tvg-chno="511" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_International_logo.svg/220px-CNN_International_logo.svg.png" group-title="News",CNN International HD
+http://placeholder.invalid/astro/ch511.m3u8
+
+#EXTINF:-1 tvg-id="512" tvg-chno="512" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BBC_News_2021.svg/220px-BBC_News_2021.svg.png" group-title="News",BBC News HD
+http://placeholder.invalid/astro/ch512.m3u8
+
+#EXTINF:-1 tvg-id="513" tvg-chno="513" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Al_Jazeera_English_logo.svg/220px-Al_Jazeera_English_logo.svg.png" group-title="News",Al Jazeera English HD
+http://placeholder.invalid/astro/ch513.m3u8
+
+#EXTINF:-1 tvg-id="514" tvg-chno="514" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sky_News_logo.svg/220px-Sky_News_logo.svg.png" group-title="News",Sky News HD
+http://placeholder.invalid/astro/ch514.m3u8
+
+#EXTINF:-1 tvg-id="515" tvg-chno="515" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CNA_logo.svg/220px-CNA_logo.svg.png" group-title="News",CNA HD
+http://placeholder.invalid/astro/ch515.m3u8
+
+#EXTINF:-1 tvg-id="516" tvg-chno="516" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/220px-CNBC_logo.svg.png" group-title="News",CNBC Asia HD
+http://placeholder.invalid/astro/ch516.m3u8
+
+#EXTINF:-1 tvg-id="517" tvg-chno="517" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bloomberg_Television_logo.svg/220px-Bloomberg_Television_logo.svg.png" group-title="News",Bloomberg TV HD
+http://placeholder.invalid/astro/ch517.m3u8
+
+#EXTINF:-1 tvg-id="518" tvg-chno="518" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ABC_News_Logo_2021.svg/220px-ABC_News_Logo_2021.svg.png" group-title="News",ABC Australia HD
+http://placeholder.invalid/astro/ch518.m3u8
+
+#EXTINF:-1 tvg-id="521" tvg-chno="521" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/France_24_logo.svg/220px-France_24_logo.svg.png" group-title="News",France 24 English HD
+http://placeholder.invalid/astro/ch521.m3u8
+
+#EXTINF:-1 tvg-id="522" tvg-chno="522" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/DW_Logo.svg/220px-DW_Logo.svg.png" group-title="News",DW English HD
+http://placeholder.invalid/astro/ch522.m3u8
+
+#EXTINF:-1 tvg-id="523" tvg-chno="523" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NHK_World_Japan.svg/220px-NHK_World_Japan.svg.png" group-title="News",NHK World Japan HD
+http://placeholder.invalid/astro/ch523.m3u8
+
+
+# =========================================================
+# DOCUMENTARY & LEARNING
+# =========================================================
+#EXTINF:-1 tvg-id="551" tvg-chno="551" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_Channel_logo_2019.svg/220px-Discovery_Channel_logo_2019.svg.png" group-title="Documentary",Discovery HD
+http://placeholder.invalid/astro/ch551.m3u8
+
+#EXTINF:-1 tvg-id="552" tvg-chno="552" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Discovery_Asia_logo.png/220px-Discovery_Asia_logo.png" group-title="Documentary",Discovery Asia HD
+http://placeholder.invalid/astro/ch552.m3u8
+
+#EXTINF:-1 tvg-id="553" tvg-chno="553" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Animal_Planet_2018.svg/220px-Animal_Planet_2018.svg.png" group-title="Documentary",Animal Planet HD
+http://placeholder.invalid/astro/ch553.m3u8
+
+#EXTINF:-1 tvg-id="554" tvg-chno="554" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BBC_Earth_logo.svg/220px-BBC_Earth_logo.svg.png" group-title="Documentary",BBC Earth HD
+http://placeholder.invalid/astro/ch554.m3u8
+
+#EXTINF:-1 tvg-id="555" tvg-chno="555" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/History_Channel_Logo.svg/220px-History_Channel_Logo.svg.png" group-title="Documentary",History HD
+http://placeholder.invalid/astro/ch555.m3u8
+
+
+# =========================================================
+# KIDS & ANIMATION
+# =========================================================
+#EXTINF:-1 tvg-id="611" tvg-chno="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network HD
+http://placeholder.invalid/astro/ch611.m3u8
+
+#EXTINF:-1 tvg-id="612" tvg-chno="612" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/DreamWorks_Animation_logo.svg/220px-DreamWorks_Animation_logo.svg.png" group-title="Kids",DreamWorks HD
+http://placeholder.invalid/astro/ch612.m3u8
+
+#EXTINF:-1 tvg-id="615" tvg-chno="615" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Astro_Ceria_2020.png/220px-Astro_Ceria_2020.png" group-title="Kids",Astro Ceria HD
+http://placeholder.invalid/astro/ch615.m3u8
+
+#EXTINF:-1 tvg-id="616" tvg-chno="616" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Nickelodeon_2023_logo.svg/220px-Nickelodeon_2023_logo.svg.png" group-title="Kids",Nickelodeon HD
+http://placeholder.invalid/astro/ch616.m3u8
+
+#EXTINF:-1 tvg-id="617" tvg-chno="617" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nick_Jr_2023_logo.svg/220px-Nick_Jr_2023_logo.svg.png" group-title="Kids",Nick Jr. HD
+http://placeholder.invalid/astro/ch617.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-chno="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Moonbug_Kids_logo.png/220px-Moonbug_Kids_logo.png" group-title="Kids",Moonbug HD
+http://placeholder.invalid/astro/ch618.m3u8
+
+#EXTINF:-1 tvg-id="620" tvg-chno="620" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_logo.svg/220px-CBeebies_logo.svg.png" group-title="Kids",CBeebies HD
+http://placeholder.invalid/astro/ch620.m3u8
+
+
+# =========================================================
+# ENGLISH LIFESTYLE & VARIETY
+# =========================================================
+#EXTINF:-1 tvg-id="701" tvg-chno="701" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/AXN_Asia_logo.png/220px-AXN_Asia_logo.png" group-title="Lifestyle",AXN HD
+http://placeholder.invalid/astro/ch701.m3u8
+
+#EXTINF:-1 tvg-id="703" tvg-chno="703" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lifetime_logo.svg/220px-Lifetime_logo.svg.png" group-title="Lifestyle",Lifetime HD
+http://placeholder.invalid/astro/ch703.m3u8
+
+#EXTINF:-1 tvg-id="706" tvg-chno="706" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/HITS_TV_logo.png/220px-HITS_TV_logo.png" group-title="Lifestyle",HITS HD
+http://placeholder.invalid/astro/ch706.m3u8
+
+#EXTINF:-1 tvg-id="707" tvg-chno="707" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TLC_logo_2020.svg/220px-TLC_logo_2020.svg.png" group-title="Lifestyle",TLC HD
+http://placeholder.invalid/astro/ch707.m3u8
+
+#EXTINF:-1 tvg-id="708" tvg-chno="708" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Food_Network_logo.svg/220px-Food_Network_logo.svg.png" group-title="Lifestyle",Food Network HD
+http://placeholder.invalid/astro/ch708.m3u8
+
+#EXTINF:-1 tvg-id="709" tvg-chno="709" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Asian_Food_Network_logo.svg/220px-Asian_Food_Network_logo.svg.png" group-title="Lifestyle",Asian Food Network HD
+http://placeholder.invalid/astro/ch709.m3u8
+
+#EXTINF:-1 tvg-id="712" tvg-chno="712" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Warner_TV_logo.svg/220px-Warner_TV_logo.svg.png" group-title="Lifestyle",Warner TV HD
+http://placeholder.invalid/astro/ch712.m3u8
+
+#EXTINF:-1 tvg-id="714" tvg-chno="714" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BBC_Lifestyle_logo.svg/220px-BBC_Lifestyle_logo.svg.png" group-title="Lifestyle",BBC Lifestyle HD
+http://placeholder.invalid/astro/ch714.m3u8
+
+#EXTINF:-1 tvg-id="715" tvg-chno="715" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/HGTV_logo.svg/220px-HGTV_logo.svg.png" group-title="Lifestyle",HGTV HD
+http://placeholder.invalid/astro/ch715.m3u8
+
+
+# =========================================================
+# INDIAN ENTERTAINMENT
+# =========================================================
+#EXTINF:-1 tvg-id="201" tvg-chno="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Astro_Vaanavil_2020.png/220px-Astro_Vaanavil_2020.png" group-title="Indian",Astro Vaanavil HD
+http://placeholder.invalid/astro/ch201.m3u8
+
+#EXTINF:-1 tvg-id="202" tvg-chno="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Astro_Vinmeen_HD_2020.png/220px-Astro_Vinmeen_HD_2020.png" group-title="Indian",Astro Vinmeen HD
+http://placeholder.invalid/astro/ch202.m3u8
+
+#EXTINF:-1 tvg-id="211" tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sun_TV_logo.png/220px-Sun_TV_logo.png" group-title="Indian",Sun TV HD
+http://placeholder.invalid/astro/ch211.m3u8
+
+#EXTINF:-1 tvg-id="212" tvg-chno="212" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sun_Music_logo.png/220px-Sun_Music_logo.png" group-title="Indian",Sun Music HD
+http://placeholder.invalid/astro/ch212.m3u8
+
+#EXTINF:-1 tvg-id="215" tvg-chno="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Star_Vijay_logo.png/220px-Star_Vijay_logo.png" group-title="Indian",Star Vijay HD
+http://placeholder.invalid/astro/ch215.m3u8
+
+#EXTINF:-1 tvg-id="221" tvg-chno="221" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Star_Plus_logo.svg/220px-Star_Plus_logo.svg.png" group-title="Indian",Star Plus HD
+http://placeholder.invalid/astro/ch221.m3u8
+
+#EXTINF:-1 tvg-id="222" tvg-chno="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Colors_TV_logo.svg/220px-Colors_TV_logo.svg.png" group-title="Indian",Colors HD
+http://placeholder.invalid/astro/ch222.m3u8
+
+#EXTINF:-1 tvg-id="223" tvg-chno="223" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Zee_TV_logo.svg/220px-Zee_TV_logo.svg.png" group-title="Indian",Zee TV HD
+http://placeholder.invalid/astro/ch223.m3u8
+
+
+# =========================================================
+# SPORTS
+# =========================================================
+#EXTINF:-1 tvg-id="801" tvg-chno="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Astro_Arena_2020.png/220px-Astro_Arena_2020.png" group-title="Sports",Astro Arena HD
+http://placeholder.invalid/astro/ch801.m3u8
+
+#EXTINF:-1 tvg-id="802" tvg-chno="802" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Astro_Arena_2_2021.png/220px-Astro_Arena_2_2021.png" group-title="Sports",Stadium Astro HD
+http://placeholder.invalid/astro/ch802.m3u8
+
+#EXTINF:-1 tvg-id="803" tvg-chno="803" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Astro_Arena_Bola_2020.png/220px-Astro_Arena_Bola_2020.png" group-title="Sports",Astro Arena Bola HD
+http://placeholder.invalid/astro/ch803.m3u8
+
+#EXTINF:-1 tvg-id="805" tvg-chno="805" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/SPOTV_logo.png/220px-SPOTV_logo.png" group-title="Sports",SPOTV HD
+http://placeholder.invalid/astro/ch805.m3u8
+
+#EXTINF:-1 tvg-id="806" tvg-chno="806" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SPOTV2_logo.png/220px-SPOTV2_logo.png" group-title="Sports",SPOTV2 HD
+http://placeholder.invalid/astro/ch806.m3u8
+
+#EXTINF:-1 tvg-id="810" tvg-chno="810" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Astro_Grandstand_logo.png/220px-Astro_Grandstand_logo.png" group-title="Sports",Astro Grandstand HD
+http://placeholder.invalid/astro/ch810.m3u8
+
+#EXTINF:-1 tvg-id="811" tvg-chno="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Astro_Premier_League_2020.png/220px-Astro_Premier_League_2020.png" group-title="Sports",Astro Premier League HD
+http://placeholder.invalid/astro/ch811.m3u8
+
+#EXTINF:-1 tvg-id="812" tvg-chno="812" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Astro_Premier_League_2020.png/220px-Astro_Premier_League_2020.png" group-title="Sports",Astro Premier League 2 HD
+http://placeholder.invalid/astro/ch812.m3u8
+
+#EXTINF:-1 tvg-id="814" tvg-chno="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Astro_Football_2020.png/220px-Astro_Football_2020.png" group-title="Sports",Astro Football HD
+http://placeholder.invalid/astro/ch814.m3u8
+
+#EXTINF:-1 tvg-id="815" tvg-chno="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Astro_Badminton_2020.png/220px-Astro_Badminton_2020.png" group-title="Sports",Astro Badminton HD
+http://placeholder.invalid/astro/ch815.m3u8
+
+#EXTINF:-1 tvg-id="817" tvg-chno="817" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Astro_Sports_Plus_2020.png/220px-Astro_Sports_Plus_2020.png" group-title="Sports",Astro Sports Plus HD
+http://placeholder.invalid/astro/ch817.m3u8
+
+#EXTINF:-1 tvg-id="820" tvg-chno="820" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/BeIN_Sports_logo.svg/220px-BeIN_Sports_logo.svg.png" group-title="Sports",beIN SPORTS 1 HD
+http://placeholder.invalid/astro/ch820.m3u8
+
+#EXTINF:-1 tvg-id="821" tvg-chno="821" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/BeIN_Sports_logo.svg/220px-BeIN_Sports_logo.svg.png" group-title="Sports",beIN SPORTS 2 HD
+http://placeholder.invalid/astro/ch821.m3u8
+
+#EXTINF:-1 tvg-id="822" tvg-chno="822" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/BeIN_Sports_logo.svg/220px-BeIN_Sports_logo.svg.png" group-title="Sports",beIN SPORTS 3 HD
+http://placeholder.invalid/astro/ch822.m3u8
+
+#EXTINF:-1 tvg-id="831" tvg-chno="831" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Golf_Channel_logo.svg/220px-Golf_Channel_logo.svg.png" group-title="Sports",Golf Channel HD
+http://placeholder.invalid/astro/ch831.m3u8
+
+
+# =========================================================
+# RADIO CHANNELS
+# =========================================================
+#EXTINF:-1 tvg-id="852" tvg-chno="852" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ERA_logo.png/220px-ERA_logo.png" group-title="Radio",ERA FM
+http://placeholder.invalid/astro/ch852.m3u8
+
+#EXTINF:-1 tvg-id="853" tvg-chno="853" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/MY_logo.png/220px-MY_logo.png" group-title="Radio",MY FM
+http://placeholder.invalid/astro/ch853.m3u8
+
+#EXTINF:-1 tvg-id="854" tvg-chno="854" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hitz_logo.png/220px-Hitz_logo.png" group-title="Radio",Hitz FM
+http://placeholder.invalid/astro/ch854.m3u8
+
+#EXTINF:-1 tvg-id="855" tvg-chno="855" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MIX_logo.png/220px-MIX_logo.png" group-title="Radio",MIX FM
+http://placeholder.invalid/astro/ch855.m3u8
+
+#EXTINF:-1 tvg-id="856" tvg-chno="856" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Lite_logo.png/220px-Lite_logo.png" group-title="Radio",LITE FM
+http://placeholder.invalid/astro/ch856.m3u8
+
+#EXTINF:-1 tvg-id="857" tvg-chno="857" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/SINAR_logo.png/220px-SINAR_logo.png" group-title="Radio",SINAR FM
+http://placeholder.invalid/astro/ch857.m3u8
+
+#EXTINF:-1 tvg-id="858" tvg-chno="858" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Raaga_logo.png/220px-Raaga_logo.png" group-title="Radio",RAAGA FM
+http://placeholder.invalid/astro/ch858.m3u8
+
+#EXTINF:-1 tvg-id="859" tvg-chno="859" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/GEGAR_logo.png/220px-GEGAR_logo.png" group-title="Radio",GEGAR FM
+http://placeholder.invalid/astro/ch859.m3u8
+
+#EXTINF:-1 tvg-id="860" tvg-chno="860" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MELODY_logo.png/220px-MELODY_logo.png" group-title="Radio",MELODY FM
+http://placeholder.invalid/astro/ch860.m3u8
+
+#EXTINF:-1 tvg-id="861" tvg-chno="861" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/GOXUAN_logo.png/220px-GOXUAN_logo.png" group-title="Radio",GOXUAN FM
+http://placeholder.invalid/astro/ch861.m3u8
+
+#EXTINF:-1 tvg-id="862" tvg-chno="862" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Zayan_logo.png/220px-Zayan_logo.png" group-title="Radio",ZAYAN FM
+http://placeholder.invalid/astro/ch862.m3u8
